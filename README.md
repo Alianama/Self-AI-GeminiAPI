@@ -27,7 +27,7 @@ Pastikan **Node.js** dan **npm** sudah terinstal di sistemmu.
    GOOGLE_API_KEY=your_google_api_key_here
    ```
 
-🚀 Cara Penggunaan
+## 🚀 Cara Penggunaan
 
 1. Menjalankan API
    Jalankan API menggunakan perintah berikut:
@@ -61,17 +61,21 @@ Pastikan **Node.js** dan **npm** sudah terinstal di sistemmu.
    ├── 📄 .env # File environment (API key)
    ├── 📂 node_modules # Folder dependensi
    ```
-   🚀 Teknologi yang Digunakan
-   - Node.js
-   - Express.js
-   - Google Generative AI (Gemini 2.0 Flash)
-   - dotenv (untuk mengelola API key)
-     💡 Catatan
-     Pastikan API key Google Generative AI valid sebelum menjalankan aplikasi.
-     API ini bisa diperluas dengan fitur tambahan seperti memory chat, custom response style, dan lain-lain.
-     🚀 Kontak
-     Jika ada pertanyaan atau saran, hubungi saya di:
-     📧 Email: alipurnama@gmail.com
-     🔗 LinkedIn: Ali Purnama Alam
-     📷 Instagram: @alianama\_
-     🚀 Happy coding! 🚀
+
+## 🚀 Teknologi yang Digunakan
+
+- Node.js
+- Express.js
+- Google Generative AI (Gemini 2.0 Flash)
+- dotenv (untuk mengelola API key)
+  💡 Catatan
+  Pastikan API key Google Generative AI valid sebelum menjalankan aplikasi.
+  API ini bisa diperluas dengan fitur tambahan seperti memory chat, custom response style, dan lain-lain.
+
+## 🚀 Kontak
+
+Jika ada pertanyaan atau saran, hubungi saya di:
+📧 Email: alipurnama@gmail.com
+🔗 LinkedIn: Ali Purnama Alam
+📷 Instagram: @alianama\_
+🚀 Happy coding! 🚀
